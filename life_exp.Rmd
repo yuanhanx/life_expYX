@@ -17,3 +17,9 @@ This is a reivew of last week.
 
 Recall that we must do git init to indicate that this (where this file is saved) is a git repository. 
 
+Recall git status shows us untracked files that are in our directory. 
+
+Then git add and then git status shows us changes that have yet to be committed! 
+
+
+
