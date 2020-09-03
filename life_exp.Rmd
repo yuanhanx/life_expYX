@@ -1,7 +1,7 @@
 ---
 title: "Life Expectancy Analysis"
 author: "Yuanhan Xu"
-date: "9/3/2020"
+date: "`r Sys.Date()`"
 output: html_document
 ---
 
