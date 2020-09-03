@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```{r}
 install.packages("gapminder")
 library(gapminder)
-
+w
 View(gapminder_unfiltered)
 
 ```
