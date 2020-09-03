@@ -1,0 +1,19 @@
+---
+title: "life_exp"
+author: "Yuanhan Xu"
+date: "6/29/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#Abstract
+
+We reproduced the life expectancy analysis from Ger and Et Al. 
+
+This is a reivew of last week. 
+
+Recall that we must do git init to indicate that this (where this file is saved) is a git repository. 
+
